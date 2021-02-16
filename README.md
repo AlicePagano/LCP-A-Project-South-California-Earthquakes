@@ -2,6 +2,14 @@
 
 ## South-California Earthquakes Data Analysis
 
+
+## Authors
+
+* [**Alice Pagano**](https://github.com/AlicePagano) (University of Padova)
+* [**Alessandro Lambertini**] (University of Padova)
+* [**Michele Puppin**] (University of Padova)
+* [**Michele Guadagnini**] (University of Padova)
+
 ### Description
 
 The catalog includes the magnitude, time of occurrence (s), and 3D coordinates (m) of earthquakes in about 20 years of recording in South California. Coordinates were converted from latitude, longitude, and depth of events in a seismic catalog. Magnitudes should be within the range $[0,8]$.
