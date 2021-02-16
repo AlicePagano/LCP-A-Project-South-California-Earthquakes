@@ -1,6 +1,6 @@
-# LCP-Project-South-California-Earthquakes
+# Laboratory of Computational Physics - Part A
 
-## Earthquake Data Analysis
+## South-California Earthquakes Data Analysis
 
 ### Description
 
