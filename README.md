@@ -6,9 +6,9 @@
 ## Authors
 
 * [**Alice Pagano**](https://github.com/AlicePagano) (University of Padova)
-* [**Alessandro Lambertini**] (University of Padova)
-* [**Michele Puppin**] (University of Padova)
-* [**Michele Guadagnini**] (University of Padova)
+* **Alessandro Lambertini** (University of Padova)
+* **Michele Puppin** (University of Padova)
+* **Michele Guadagnini** (University of Padova)
 
 ### Description
 
